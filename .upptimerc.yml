@@ -5,12 +5,14 @@ repo: upptime2 # The name of this repository
 sites:
   - name: HPS
     url: $HPS_SHOP_API
+    icon: https://huidpraktijkshop.nl/favicon.ico
     method: POST
     headers:
       - "Content-Type: application/json"
     body: '{ "query": "{ product(id: \"4457\") { id name description slug collections { name id parentId breadcrumbs { slug name } } optionGroups { id code name options { id code name groupId } } featuredAsset { id preview } assets { source name width height } variants { id sku name priceWithTax stockLevel featuredAsset { id preview } assets { source name width height } } facetValues { name id code facet { name id code } } } }" }'
   - name: WKW
     url: $WKW_SHOP_API
+    icon: https://wormenkwekerijwasse.nl/favicon.png
     method: POST
     headers:
       - "Content-Type: application/json"
