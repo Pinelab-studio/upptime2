@@ -23,6 +23,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://pinelab.studio/pinelab.svg
   name: Upptime
+  baseUrl: /upptime2
   introTitle: "Pinelab.studio API monitoring"
   introMessage: "Monitor the status and performance of several API's managed by Pinelab.studio"
   navbar:
