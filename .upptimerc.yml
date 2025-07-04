@@ -30,7 +30,7 @@ status-website:
   introMessage: "Monitor the status and performance of several API's managed by Pinelab.studio"
   navbar:
     - title: Status
-      href: /
+      href: /upptime2/
     - title: Pinelab.studio
       href: https://pinelab.studio/
 workflowSchedule:
