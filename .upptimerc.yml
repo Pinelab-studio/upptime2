@@ -23,7 +23,7 @@ sites:
     method: POST
     headers:
       - "Content-Type: application/json"
-    body: '{ "query": "{ product(id: \"293\") { id name description slug collections { name id parentId breadcrumbs { slug name } } optionGroups { id code name options { id code name groupId } } featuredAsset { id preview } assets { source name width height } variants { id sku name priceWithTax stockLevel featuredAsset { id preview } assets { source name width height } } facetValues { name id code facet { name id code } } } }" }'
+    body: '{ "query": "{ product(id: \"255\") { id name description slug collections { name id parentId breadcrumbs { slug name } } optionGroups { id code name options { id code name groupId } } featuredAsset { id preview } assets { source name width height } variants { id sku name priceWithTax stockLevel featuredAsset { id preview } assets { source name width height } } facetValues { name id code facet { name id code } } } }" }'
 
 
 status-website:
