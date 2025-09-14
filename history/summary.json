@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 719,
-    "timeWeek": 746,
-    "timeMonth": 734,
-    "timeYear": 722,
+    "time": 721,
+    "timeDay": 679,
+    "timeWeek": 742,
+    "timeMonth": 733,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "$WKW_SHOP_API",
     "icon": "https://wormenkwekerijwasse.nl/favicon.png",
     "slug": "wkw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 349,
-    "timeDay": 301,
-    "timeWeek": 331,
+    "timeDay": 307,
+    "timeWeek": 330,
     "timeMonth": 335,
     "timeYear": 349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-14": 0
+    }
   },
   {
     "name": "Cantastic",
@@ -47,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 531,
-    "timeDay": 577,
+    "timeDay": 561,
     "timeWeek": 548,
-    "timeMonth": 549,
+    "timeMonth": 550,
     "timeYear": 531,
     "dailyMinutesDown": {}
   }
